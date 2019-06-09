@@ -3,6 +3,8 @@
 # DEMO
 * colorful
   * https://yuki-sakaguchi.github.io/p5-sound-visualize/colorful/
+* colorful2
+  * https://yuki-sakaguchi.github.io/p5-sound-visualize/colorful2/
 
 # 参考サイト
 * ソースコード
