@@ -28,8 +28,8 @@ function setup() {
   c = createCanvas(windowWidth, windowHeight);
   noStroke();
   rectMode(CENTER);
-  colorMode(HSL, 360, 100, 100, 100)
-  background(100)
+  // colorMode(HSL, 360, 100, 100, 100)
+  // background(100)
   backgroundColor = color( random(0,255), random(0,255), random(0,255) );
 
   amplitude = new p5.Amplitude();
@@ -43,7 +43,6 @@ function setup() {
 }
 
 function draw() {
-  console.log('test')
   background(backgroundColor);
 
   var level = amplitude.getLevel();
