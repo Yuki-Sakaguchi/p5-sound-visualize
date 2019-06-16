@@ -2,18 +2,26 @@
 
 # DEMO
 * colorful
-  * https://yuki-sakaguchi.github.io/p5-sound-visualize/colorful/
+  * 音に反応してカラフルなパーティクルを表示
+  * [demo](https://yuki-sakaguchi.github.io/p5-sound-visualize/colorful/)
 * colorful2
-  * https://yuki-sakaguchi.github.io/p5-sound-visualize/colorful2/
+  * 音に反応してカラフルなパーティクルをいい感じに表示
+  * [demo](https://yuki-sakaguchi.github.io/p5-sound-visualize/colorful2/)
 * fft
-  * https://yuki-sakaguchi.github.io/p5-sound-visualize/fft/
+  * マイクの音をフーリエ変換し、波形に変換
+  * [demo](https://yuki-sakaguchi.github.io/p5-sound-visualize/fft/)
   * [参考](https://p5js.org/examples/sound-frequency-spectrum.html)
 * fft2
-  * https://yuki-sakaguchi.github.io/p5-sound-visualize/fft2/
+  * マイクの音をカラフルな波形に変換
+  * [demo](https://yuki-sakaguchi.github.io/p5-sound-visualize/fft2/)
   * [参考](https://qiita.com/Beef1297/items/a20bec00c01a85daadd4)
 * fft3
-  * https://yuki-sakaguchi.github.io/p5-sound-visualize/fft3/
+  * mp3を再生し、ビートでアニメーション
+  * [demo](https://yuki-sakaguchi.github.io/p5-sound-visualize/fft3/)
   * [参考](https://therewasaguy.github.io/p5-music-viz/demos/01d_beat_detect_amplitude/)
+* fft4
+  * マイクの音でビートでアニメーション
+  * [demo](https://yuki-sakaguchi.github.io/p5-sound-visualize/fft4/)
 
 
 # 参考サイト
