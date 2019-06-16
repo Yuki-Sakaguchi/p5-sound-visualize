@@ -32,12 +32,12 @@ function setup() {
   background(100)
   backgroundColor = color( random(0,255), random(0,255), random(0,255) );
 
-  // amplitude = new p5.Amplitude();
+  amplitude = new p5.Amplitude();
 
   soundFile.play();
 
-  // amplitude.setInput(soundFile);
-  // amplitude.smooth(0.9);
+  amplitude.setInput(soundFile);
+  amplitude.smooth(0.9);
 
   console.log('end setup')
 }
@@ -46,7 +46,7 @@ function draw() {
   console.log('test')
   background(backgroundColor);
 
-  // var level = amplitude.getLevel();
+  var level = amplitude.getLevel();
   var level = 0.2
   detectBeat(level);
 
