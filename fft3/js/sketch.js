@@ -47,7 +47,6 @@ function draw() {
   background(backgroundColor);
 
   var level = amplitude.getLevel();
-  var level = 0.2
   detectBeat(level);
 
   // distort the rectangle based based on the amp
