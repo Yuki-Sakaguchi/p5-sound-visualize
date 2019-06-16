@@ -11,6 +11,9 @@
 * fft2
   * https://yuki-sakaguchi.github.io/p5-sound-visualize/fft2/
   * [参考](https://qiita.com/Beef1297/items/a20bec00c01a85daadd4)
+* fft3
+  * https://yuki-sakaguchi.github.io/p5-sound-visualize/fft3/
+  * [参考](https://therewasaguy.github.io/p5-music-viz/demos/01d_beat_detect_amplitude/)
 
 
 # 参考サイト
