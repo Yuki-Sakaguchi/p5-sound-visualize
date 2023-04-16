@@ -37,9 +37,9 @@
 
 ## [mp3を再生し、その音をフーリエ変換し、ビートでアニメーション](https://yuki-sakaguchi.github.io/p5-sound-visualize/fft3/)
 <details>
-  <summary>🎥 動画を見る</summary>
+  <summary>🎥 動画を見る（すいません、うまく撮れてないです...）</summary>
   <div>
-    <video src="https://user-images.githubusercontent.com/16290220/232322715-3a30baa7-3fd8-4188-befb-712618539222.mov" />
+    <video src="https://user-images.githubusercontent.com/16290220/232322869-3f2adf6f-1801-4c7b-84fc-ea021e29ac89.mov" />
   </div>
 </details>
 [参考](https://therewasaguy.github.io/p5-music-viz/demos/01d_beat_detect_amplitude/)
