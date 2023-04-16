@@ -1,4 +1,8 @@
 # p5.jsで音に反応するビジュアルコーディング
+p5.js を使ってマイク入力などから取得した音を材料に表現をするサンプル  
+少し古いので動かないものがあるかも
+
+![スクリーンショット 2023-04-17 0 24 23](https://user-images.githubusercontent.com/16290220/232323068-76edda73-c4dc-472c-94f7-f4e3f1fc6b23.jpg)
 
 ## [マイクの音に反応してカラフルなパーティクルを表示](https://yuki-sakaguchi.github.io/p5-sound-visualize/colorful/)
 <details>
