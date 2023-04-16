@@ -20,6 +20,14 @@ p5.js を使ってマイク入力などから取得した音を材料に表現�
   </div>
 </details>
 
+## [マイクの音に反応して黒い円を表示させる](https://yuki-sakaguchi.github.io/p5-sound-visualize/circle/)
+<details>
+  <summary>🎥 動画を見る</summary>
+  <div>
+    <video src="https://user-images.githubusercontent.com/16290220/232323473-e56ac806-7962-4b3f-90ca-efdceffca2c1.mov" />
+  </div>
+</details>
+
 ## [マイクの音をフーリエ変換し、波形に変換](https://yuki-sakaguchi.github.io/p5-sound-visualize/fft/)
 <details>
   <summary>🎥 動画を見る</summary>
